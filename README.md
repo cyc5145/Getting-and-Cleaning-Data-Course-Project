@@ -12,5 +12,5 @@ Goal | Item | Link to Item
 --- | --- | ---
 Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/cyc5145/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R "run_analysis.R")
 Github Repo | Repo |  [Repo Link](https://github.com/cyc5145/Getting-and-Cleaning-Data-Course-Project "Click to go to Repo")
-Cookbook | CodeBook.md |  [Repo Link]( "CodeBook.md")
+Cookbook | CodeBook.md |  [Repo Link](https://github.com/cyc5145/Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md "CodeBook.md")
 README | ReadingItNow |  [Repo Link](https://github.com/cyc5145/Getting-and-Cleaning-Data-Course-Project/blob/master/README.md "README.md")
